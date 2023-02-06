@@ -273,4 +273,4 @@ namespace WebApp.Pages.Sales
 
 > ***Questions/Comments?** If you find any mistakes in these instructions or would like clarification on any of the items, please contact your instructor.*
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*

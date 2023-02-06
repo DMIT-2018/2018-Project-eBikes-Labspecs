@@ -8,4 +8,4 @@ The marking guide for each section is based on the [Lab Specs](../ReadMe.md) for
 
 ----
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*

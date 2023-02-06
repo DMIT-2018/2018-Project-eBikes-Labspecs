@@ -98,4 +98,4 @@ Use the following rules when processing part servicing.
 
 ![eBikes - servicing ERD](./job_servicing_ERD.png)
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*
