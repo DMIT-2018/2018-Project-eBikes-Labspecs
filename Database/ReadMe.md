@@ -6,4 +6,4 @@ The [eBike_DMIT2018.dacpac](./eBike_DMIT2018.dacpac) has been provided for you t
 
 ![DacPac Install](./DeployDacPac.png)
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*
