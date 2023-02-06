@@ -84,4 +84,4 @@ Business Rules and Form Processing
 
 ![Stock Items](./vendorinventory.png)
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*
