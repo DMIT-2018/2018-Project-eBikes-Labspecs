@@ -84,4 +84,4 @@ Use the following rules when processing returns.
 
 ![eTools - Shopping ERD](./salesreturns_erd.png)
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*
