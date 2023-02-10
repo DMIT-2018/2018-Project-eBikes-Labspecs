@@ -33,8 +33,8 @@
 |:--------------------|:------:|:-----------:|:------|
 | Project Milestones and Issues with Task comment |   3    |   **TBA**   |       |
 | Document Components as requested  |   2    |   **TBA**   |       |
-| Query View Model(s)   |   2    |   **TBA**   |       |
-| Command View Model(s) |   2    |   **TBA**   |       |
+| Query Data Model(s)   |   2    |   **TBA**   |       |
+| Command Data Model(s) |   2    |   **TBA**   |       |
 | BLL Method(s)         |   5    |   **TBA**   |       |
 | Penalties (lack of associated issues, non-informative commit messages, etc.)        |   max -4    |   **TBA**   |       |
 | **Total**           |  *14*   |   **TBA**   |       |
