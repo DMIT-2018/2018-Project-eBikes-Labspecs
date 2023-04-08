@@ -80,7 +80,7 @@ Business Rules and Form Processing
 
 ![Purchasing ERD](./purchasing_erd.png)
 
-![Active Order](./currentactiveorder.png)
+![Active Order](./vendorinventory.png)
 
 ![Stock Items](./vendorinventory.png)
 
