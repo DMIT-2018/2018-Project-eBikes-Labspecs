@@ -78,7 +78,7 @@
       - [ ] Minimum one item from order list or minimum one unordered item to process
       - [ ] Values validated
       - [ ] Returns have a reason
-      – [ ] cannot receive more items than order outstanding quantity 
+      - [ ] Cannot receive more items than order outstanding quantity 
       - [ ] returned items must have a reason
     - [ ] ReceiveOrders – new record
     - [ ] ReceiveOrderDetails – new record for each item for which part has been received
