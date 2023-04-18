@@ -89,6 +89,7 @@
     - [ ] Display percentage if verified coupon  
   - **BLL**
     - [ ]  Does **not** alter tables
+    - [ ]  query to get coupon data
 - **`TBA`**/2 - DISPLAYING – CALCULATE CHARGES 
   - **UI**
     - [ ] Calculate charges based on shop rate and estimated hours
