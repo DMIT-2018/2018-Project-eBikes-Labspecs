@@ -104,5 +104,7 @@
   - **UI**
     - [ ] No invoice displayed
     - [ ] Totals and invoice number cleared
+  - **BLL**
+    - [ ] Does **not** alter tables
 
 *Back to the [Part 3 Marking](./ReadMe.md)*
