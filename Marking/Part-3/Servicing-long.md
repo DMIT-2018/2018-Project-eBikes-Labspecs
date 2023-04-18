@@ -99,8 +99,7 @@
     - [ ] Does **not** alter tables  
 - **`TBA`**/6 - PROCESSING – REGISTER JOB
   - **UI**
-    - [ ] Check entered Coupon for validate status
-    - [ ] Submit service list for processing
+      - [ ] Submit service list for processing
   - **BLL**
 	- [ ] Validation –
       - [ ] Appropriate data type, data present and non-zero positive values
