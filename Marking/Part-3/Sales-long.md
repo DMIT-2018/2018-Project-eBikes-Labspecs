@@ -74,6 +74,7 @@
     - [ ] UI - Totals calculation correct at all times
   - **BLL**
     - [ ] SINGLE TRANSACTION!
+    - [ ] Validation of sale cart values
     - [ ] Sales – create a sale record
     - [ ] SaleDetails – create saledetails 
     - [ ] Parts – Update QuantityOnHand
