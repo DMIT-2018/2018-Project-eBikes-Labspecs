@@ -56,6 +56,7 @@
   - **UI**
     - [ ] Add service to service list
     - [ ] Refresh service list
+    - [ ] Update the Estimate cost based on hours
   - **BLL**
     - [ ] Does **not** alter tables
 - **`TBA`**/1 - DISPLAYING – RESET SERVICE REQUEST
