@@ -55,6 +55,7 @@
     - [ ] Quantity set to default of 1
   - **BLL**
     - [ ] Does **not** alter tables
+    - [ ] query to get the part information
 - **`TBA`**/3 - VIEW/PROCESSING –EDIT CART
   - **UI**
     - [ ] UI - Validation quantity is positive numeric
